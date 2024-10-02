@@ -27,7 +27,7 @@ author:
   bio              : "Robotics & AI Researcher, Software Engineer"
   location         : "Chicago"
   employer         : "Northwestern University"
-  uri              : "anthony.goeckner.org" # URL
+  uri              : # "anthony.goeckner.org" # URL
   email            : "anthony.goeckner@northwestern.edu" 
 
   # Academic websites
